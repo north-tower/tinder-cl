@@ -7,6 +7,10 @@
   border-bottom: 1px solid #fafafa;
 }
 
+a {
+  text-decoration: none;
+}
+
 .chat__details {
   flex: 1;
 }
